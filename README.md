@@ -40,7 +40,7 @@ I'm a passionate Physicist with a Bachelor's degree in Physics and currently pur
 
 ## Get in Touch
 
-- **LinkedIn:** [Emanuel Capone](www.linkedin.com/in/emanuel-capone)
+- **LinkedIn:** [Emanuel Capone](linkedin.com/in/emanuel-capone)
 - **GitHub:** [@emanuelcapone](https://github.com/emanuelcapone)
 
 ---
