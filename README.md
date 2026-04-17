@@ -29,18 +29,8 @@ I'm a passionate Physicist with a Bachelor's degree in Physics and currently pur
 - **Scientific Computing:** Simulation, Modeling, and Data Analysis.  
 - **Research & Development:** Biophysics, Biomedicine, and Neural Network applications.
 
-## Projects
-
-- **Molecular Biophysics Laboratory internship:** The internship activity aimed to provide the fundamental knowledge for the preparation of proteins in solutions containing external crowding agents and biophysical characterization using spectroscopic techniques.
-
-## Education
-
-- **Bachelor's in Physics:** Experimental thesis work: "Thermal behavior of proteins at liquid-liquid phase separation".
-- **Master's in Matter Physics**
-
 ## Get in Touch
 
-- **LinkedIn:** [Emanuel Capone](linkedin.com/in/emanuel-capone)
 - **GitHub:** [@emanuelcapone](https://github.com/emanuelcapone)
 
 ---
