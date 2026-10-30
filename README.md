@@ -12,27 +12,48 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Emanuel! ☕
+# Hi, I'm Emanuel! 👋
 
-I'm a passionate Physicist with a Bachelor's degree in Physics and currently pursuing my Master's in Matter Physics. I love exploring the intersections between Science and Technology, and my interests span Programming, Biophysics, Biomedicine, and Artificial Intelligence (especially Machine Learning and Neural Networks).
+**MSc in Physics | Computational Biophysics | Data Science & Machine Learning**
+
+I'm a Physicist with a Master's degree in Physics (Matter Physics) from the University of Calabria, graduated with **110/110 cum laude**.
+
+I'm interested in the intersection of Physics, Computational Science, and Artificial Intelligence, with a particular focus on applying computational methods, machine learning, and data-driven approaches to scientific and real-world problems.
+
+My background combines theoretical and experimental physics with programming, numerical simulations, scientific data analysis, and machine learning. I'm particularly interested in interdisciplinary research and technology-driven environments where scientific thinking and computational skills can contribute to innovation.
 
 ## About Me
 
-- **Academic Background:** I graduated in Physics and I am now delving deeper into the world of Matter Physics as a graduate student.  
-- **Interests:** My work and curiosity focus on how programming and AI can be applied to solve real-world problems in Biophysics and Biomedicine.  
-- **Passion:** I believe that combining rigorous scientific methodology with modern computational techniques leads to innovative solutions in both academic and industrial settings.
+- 🎓 **Education:** MSc in Physics – Matter Physics, University of Calabria (110/110 cum laude).
+- 🔬 **Research Interests:** Computational Biophysics, Biomedicine, Computational Physics, and Scientific Computing.
+- 🤖 **AI & Data Science:** Machine Learning, Deep Learning, Neural Networks, and Data Analysis.
+- 💻 **Programming:** Scientific programming, numerical methods, computational modeling, and data-driven applications.
+- 🌱 **Currently Exploring:** Advanced Machine Learning, Artificial Intelligence, data engineering, and new computational technologies.
+- 🚀 **Career Interests:** Data Science, AI/ML, Research & Development, and technology-driven innovation.
 
-## Skills & Technologies
+## Technical Skills
 
-- **Programming:** Python, C, C++, HTML.
-- **Data Science & Machine Learning:** TensorFlow, PyTorch, scikit-learn.  
-- **Scientific Computing:** Simulation, Modeling, and Data Analysis.  
-- **Research & Development:** Biophysics, Biomedicine, and Neural Network applications.
+| Category | Technologies & Skills |
+|---|---|
+| **Programming Languages** | Python, C, C++ |
+| **Machine Learning & AI** | TensorFlow, Keras, PyTorch, scikit-learn |
+| **Scientific Computing** | Numerical Simulations, Computational Modeling, Data Analysis |
+| **Tools & Technologies** | Linux, Git, Bash, GitHub |
+| **Scientific Research** | Computational Biophysics, Molecular Modeling, Molecular Dynamics |
 
-## Get in Touch
+## Research & Projects
 
-- **GitHub:** [@emanuelcapone](https://github.com/emanuelcapone)
+My academic and research experience includes:
+
+- **Computational Biophysics:** Molecular modeling and investigation of protein–protein interactions.
+- **Machine Learning:** Deep learning approaches for medical image classification using Convolutional Neural Networks (CNNs), including VGG and ResNet architectures.
+- **Scientific Computing:** Numerical methods, simulations, and computational approaches to physical and biological systems.
+- **Research Publication:** Co-author of a scientific publication on protein citrullination in the Polycomb Repressor Complex 1.
+
+## Languages
+
+- 🇮🇹 Italian – Native
+- 🇬🇧 English – Professional working proficiency
+- 🇪🇸 Spanish – Working proficiency
 
 ---
-
-*☕*
